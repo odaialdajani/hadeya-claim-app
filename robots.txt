@@ -1,0 +1,3 @@
+# app.hadeya.app carries only the web app and private claim links — never index.
+User-agent: *
+Disallow: /
